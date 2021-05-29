@@ -1,0 +1,57 @@
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+body{
+    background-size:cover ;
+    background-position: center;
+}
+canvas{
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px blue solid ;
+}
+#Bed_Room{
+    border: 2px red solid;
+    border-radius: 180%;
+}
+#TV_AC{
+    border: 2px red solid;
+    border-radius: 180%;
+}
+#Hall{
+    border: 2px red solid;
+    border-radius: 180%;
+}
+.head3{
+    width: 15%;
+    font-size: 23px;
+}
+.head2{
+    width: 15%;
+    font-size: 23px;
+}
+.head1{
+    width: 15%;
+    font-size: 23px;
+}
+#hello{
+    float: right;
+}
+#helo{
+    float: right;
+}
+#heo{
+    float: right;
+}
+canvas{
+    border: 5px solid red;
+    border-radius: 5px 5px 5px grey;
+}
